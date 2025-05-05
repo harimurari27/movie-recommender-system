@@ -1,4 +1,6 @@
 🎥 Movie Recommender System
+
+
 Welcome to the Movie Recommender System! This project uses collaborative filtering and content-based methods to recommend movies based on user-selected titles. The application is powered by Streamlit, pandas, and The Movie Database (TMDb) API to deliver an interactive and user-friendly experience.
 
 🌟 Features
@@ -36,7 +38,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/movie-recommender-system.git
+git clone https://github.com/harimurari27/movie-recommender-system.git
 cd movie-recommender-system
 Install dependencies:
 
